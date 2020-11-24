@@ -1,1 +1,3 @@
-# Your code goes here!
+class Dog
+  puts "Bark"
+end
